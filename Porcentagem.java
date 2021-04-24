@@ -16,7 +16,7 @@ public class Porcentagem
             R = num + (num * P) / 100;
 
             System.out.println("");
-            System.out.printf("Resultado: %.2f", R);
+            System.out.printf("Resultado: %.0f", R);
 
             System.out.println("");
             System.out.println("");
@@ -60,7 +60,7 @@ public class Porcentagem
             R = (num * P) / 100;
 
             System.out.println("");
-            System.out.printf("Resultado: %.2f" , R);
+            System.out.printf("Resultado: %.0f" , R);
 
             System.out.println("");
             System.out.println("");
